@@ -75,3 +75,25 @@ nav {
 * {
     background-color:deepskyblue;
 }
+#yourscore {
+    margin:0;
+    text-align: center;
+    background-color:crimson;
+    color: darkgray;
+}
+#score {
+    margin: 0;
+    background-color: crimson;
+    color: darkgray;
+}
+#computersscore {
+    margin:0;
+    text-align: center;
+    background-color:rgb(6, 233, 6);
+    color:cyan;
+}
+#score_computer {
+    margin: 0;
+    background-color:rgb(6, 233, 6);
+    color:cyan;
+}
